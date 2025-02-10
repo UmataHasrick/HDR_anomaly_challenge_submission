@@ -1,7 +1,2 @@
 numpy<=2.0.0
 torch
-matplotlib
-scipy
-scikit-learn
-yaml
-re
